@@ -1,0 +1,16 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "patika ilk bolum icin olusturulmustur",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "emirhan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-fetch": "^2.6.1"
+  }
+}
