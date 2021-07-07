@@ -9,10 +9,11 @@ const [isVisible, setisVisible] = useState(true)
 
   return (
     <div className="App">
-   {isVisible &&  <Counter/>}
+   {/* {isVisible &&  <Counter/>}
    
    <br></br>
     <button onClick={()=>setisVisible(!isVisible)}> Toggle</button>
+     */}
     </div>
   );
 }
